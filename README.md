@@ -9,7 +9,7 @@ Sunucu için AkilliOtopark.py ve index.php dosyalarının içindeki database ba�
 
 **Not**: Eğer PyCharm kullanıyorsanız yeni proje açıp kodları yapıştırdıktan sonra düzenleyin.<br>
 Ayrıca PyCharm için File>Settings>Project:'Proje Adı'>Project Interpreter tıkladıktan sonra sağda bulunan + simgesine tıklayıp<br> 
-opencv-python ve pymysql kütüphanelerinin eklenmesi gerekir.<br><br>
+opencv-python ve pymysql paketlerinin yüklenmesi gerekir.<br><br>
 
 
 **DEMO**<br>
