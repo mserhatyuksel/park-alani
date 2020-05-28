@@ -12,7 +12,7 @@ Ayrıca PyCharm için File>Settings>Project:'Proje Adı'>Project Interpreter tı
 opencv-python ve pymysql paketlerinin yüklenmesi gerekir.<br><br>
 
 
-**DEMO**<br>
+**DEMO VİDEO**<br>
 
 
 [![Watch the video](https://img.youtube.com/vi/Yi0E0pPEOPw/maxresdefault.jpg)](https://youtu.be/Yi0E0pPEOPw)
