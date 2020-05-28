@@ -8,4 +8,10 @@ Park isimli bir table oluşturun ve içeriğini aşağıdaki gibi yapın.<br><br
 Sunucu için AkilliOtopark.py ve index.php dosyalarının içindeki database bağlantılarının düzenlenmesi gereklidir.
 
 **Not**: Eğer PyCharm kullanıyorsanız yeni proje açıp kodları yapıştırdıktan sonra düzenleyin.<br>
-Ayrıca PyCharm için File>Settings>Project:'Proje Adı'>Project Interpreter tıkladıktan sonra sağda bulunan + simgesine tıklayıp opencv ve mysql kütüphanelerinin eklenmesi gerekir.
+Ayrıca PyCharm için File>Settings>Project:'Proje Adı'>Project Interpreter tıkladıktan sonra sağda bulunan + simgesine tıklayıp opencv ve mysql kütüphanelerinin eklenmesi gerekir.<br><br>
+
+
+**DEMO**<br>
+
+
+[![Watch the video](https://img.youtube.com/vi/Yi0E0pPEOPw/maxresdefault.jpg)](https://youtu.be/Yi0E0pPEOPw)
